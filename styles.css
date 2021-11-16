@@ -32,7 +32,8 @@ body {
 }
 
 .cont {
-    box-shadow: #c2eaf0;
+    box-shadow: 0 0 0 1px;
+
 }
 
 hr {
