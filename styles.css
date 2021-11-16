@@ -31,6 +31,10 @@ body {
 
 }
 
+.cont {
+    box-shadow: #c2eaf0;
+}
+
 hr {
     margin: 2rem 0rem;
 }
